@@ -1,0 +1,17 @@
+{
+  "name": "श्री शान्तिनाथ दिगम्बर जैन मंदिर, बड़ागाँव",
+  "short_name": "शान्तिनाथ मंदिर",
+  "description": "दर्शन समय, अभिषेक, आरती, सेवा बुकिंग और दान - श्री शान्तिनाथ दिगम्बर जैन मंदिर, बड़ागाँव, बागपत",
+  "lang": "hi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8ec",
+  "theme_color": "#7a1e1e",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

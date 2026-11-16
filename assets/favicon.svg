@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="श्री शान्तिनाथ दिगम्बर जैन मंदिर">
+<circle cx="60" cy="60" r="58" fill="#7a1e1e"/><circle cx="60" cy="60" r="50" fill="#e8891a"/>
+<g fill="#fff8ec" opacity=".95">
+<ellipse cx="60" cy="40" rx="9" ry="20"/><ellipse cx="60" cy="40" rx="9" ry="20" transform="rotate(50 60 62)"/>
+<ellipse cx="60" cy="40" rx="9" ry="20" transform="rotate(-50 60 62)"/>
+<ellipse cx="60" cy="40" rx="9" ry="20" transform="rotate(100 60 62)"/>
+<ellipse cx="60" cy="40" rx="9" ry="20" transform="rotate(-100 60 62)"/></g>
+<circle cx="60" cy="62" r="11" fill="#7a1e1e"/>
+</svg>

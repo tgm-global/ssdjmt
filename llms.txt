@@ -1,0 +1,28 @@
+# श्री शान्तिनाथ दिगम्बर जैन मंदिर, बड़ागाँव, बागपत
+
+> श्री शान्तिनाथ दिगम्बर जैन मंदिर, बड़ागाँव (जिला बागपत, उत्तर प्रदेश) की आधिकारिक वेबसाइट। यहाँ दर्शन, अभिषेक और आरती का समय, सेवा बुकिंग, दान विवरण, उत्सव, गैलरी और पाठ-संग्रह उपलब्ध हैं। वेबसाइट हिंदी में है।
+
+मुख्य तथ्य:
+- मंदिर: श्री शान्तिनाथ दिगम्बर जैन मंदिर
+- स्थान: बड़ागाँव, जिला बागपत, उत्तर प्रदेश, भारत
+- मोबाइल: 9958426256
+- दर्शन: प्रातः 6:30 से सायं 7:30 बजे तक (प्रतिदिन)
+- अभिषेक: प्रातः 6:45 बजे
+- आरती: सायं 6:00 बजे
+- नोट: सभी जानकारी data/config.js से आती है; समय या सेवाओं में बदलाव के लिए मंदिर से संपर्क करें।
+
+## मुख्य पेज
+- [होम](https://tgm-global.github.io/ssdjmt/): मंदिर का सारांश, समय, सेवाएँ और उत्सव
+- [परिचय](https://tgm-global.github.io/ssdjmt/about.html): मंदिर और भगवान श्री शान्तिनाथ जी का परिचय
+- [दर्शन व आरती का समय](https://tgm-global.github.io/ssdjmt/darshan.html): दर्शन, अभिषेक, आरती का समय और नक्शा
+- [सेवाएँ](https://tgm-global.github.io/ssdjmt/seva.html): अभिषेक, शान्तिधारा, पूजन, विधान, जीवदया सेवा
+- [सेवा बुकिंग](https://tgm-global.github.io/ssdjmt/booking.html): बुकिंग फ़ॉर्म (व्हाट्सऐप / UPI)
+- [दान](https://tgm-global.github.io/ssdjmt/daan.html): UPI और बैंक विवरण
+- [उत्सव](https://tgm-global.github.io/ssdjmt/events.html): कार्यक्रम और पर्व
+- [गैलरी](https://tgm-global.github.io/ssdjmt/gallery.html): मंदिर के चित्र
+- [पाठ-संग्रह](https://tgm-global.github.io/ssdjmt/library.html): णमोकार मंत्र, मंगल पाठ, आरती
+- [संपर्क](https://tgm-global.github.io/ssdjmt/contact.html): पता, फ़ोन, नक्शा
+
+## तकनीकी
+- [Sitemap](https://tgm-global.github.io/ssdjmt/sitemap.xml)
+- [robots.txt](https://tgm-global.github.io/ssdjmt/robots.txt)
